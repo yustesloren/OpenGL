@@ -27,6 +27,7 @@ const char* fragmentShaderSource = "#version 330 core\n"
 
 int main()
 {
+    //popo
     glfwInit();
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);

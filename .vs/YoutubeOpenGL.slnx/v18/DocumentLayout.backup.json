@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d455e273-1acb-491f-b5c9-760a99044cf9}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
